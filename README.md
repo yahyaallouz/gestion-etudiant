@@ -10,6 +10,7 @@ A premium, web-based platform designed to streamline academic management for edu
 
 ## 🛠️ Languages Used
 
+- **React.js** ⚛️
 - **PHP** 🐘
 - **JavaScript** ⚡
 - **CSS** 🎨
