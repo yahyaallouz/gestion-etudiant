@@ -1,10 +1,21 @@
 # Gestion Étudiant - Academic Management System
 
-![Project Banner](https://placehold.co/1200x400/2563eb/ffffff?text=Gestion+Etudiant+Preview)
+![Project Banner](gestion-etudiant.png)
 
 A premium, web-based platform designed to streamline academic management for educational institutions. This system provides a seamless experience for administrators, teachers, and students to track progress, attendance, and performance.
 
 ### 🚀 **Live Demo:** [http://gestion-etudiant.kesug.com/](http://gestion-etudiant.kesug.com/)
+
+---
+
+## 🛠️ Languages Used
+
+- **PHP** 🐘
+- **JavaScript** ⚡
+- **CSS** 🎨
+- **HTML** 🌐
+- **SQL** 🗄️
+- **Shell** 🐚
 
 ---
 
