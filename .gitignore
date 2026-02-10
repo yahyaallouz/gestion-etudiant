@@ -1,0 +1,8 @@
+node_modules/
+dist/
+deployment/
+vendor/
+.env
+*.zip
+*.log
+backend/config/database.php.bak
