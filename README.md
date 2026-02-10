@@ -17,7 +17,7 @@ Use the following accounts to explore the platform's features:
 - **Password:** `demo123`
 
 **Student Account:**
-- **Email:** `student@demo.com` *(Please create this user manually)*
+- **Email:** `student@demo.com`
 - **Password:** `demo123`
 
 ---
@@ -50,4 +50,4 @@ Source code is available upon request for business inquiries.
 
 ---
 
-**Developed with ❤️ by [Your Name]**
+**Developed with ❤️ by Yahya Allouz**
