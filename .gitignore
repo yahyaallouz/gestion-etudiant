@@ -4,5 +4,8 @@
 # Whitelist specific files/folders
 !README.md
 !gestion-etudiant.png
-!github_languages/
 !.gitignore
+
+# Whitelist dummy language files
+!github_languages/
+!github_languages/*
